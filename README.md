@@ -1,6 +1,10 @@
 # The Pawsup App
 
-CSCC01 Project developed by _The Night Owl Developers_.
+This is a full-stack web application developed with 6 other people.
+
+In order to test this application, please run `npm run dev` in both the [client](client/) and [server](server/) folders.
+
+We utilized the [AGILE](https://agilemanifesto.org/) methodology in our developmental process, to see this process, please visit the [documentation folder](doc/).
 
 ## Project Description
 
