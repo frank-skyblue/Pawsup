@@ -1,0 +1,24 @@
+{
+  "name": "CSCC01-final-project",
+  "version": "1.0.0",
+  "description": "- See [client/Setup.md](client/Setup.md) for client setup instructions",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "start": "npm start --prefix server",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client && cp -r ./client/build ./server/build && npm install --prefix server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UTSCCSCC01/projectf21-night-owl-developers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UTSCCSCC01/projectf21-night-owl-developers/issues"
+  },
+  "homepage": "https://github.com/UTSCCSCC01/projectf21-night-owl-developers#readme"
+}

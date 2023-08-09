@@ -1,0 +1,40 @@
+.info{
+    padding-top: 3rem;
+}
+.productPicConatiner{
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    justify-content: center;
+
+}
+.productTitleContainter{
+    padding-bottom: 1rem;
+}
+.productImag{
+    margin: auto;
+    display: block;
+}
+.productPrice{
+    color: orange;
+}
+.productType{
+    justify-content: center;
+}
+.CarouselContainer{
+    height: 30rem;
+}
+.detail{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.quant-picker{
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-bottom-width: 0px;
+
+}
+.productQuant{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}

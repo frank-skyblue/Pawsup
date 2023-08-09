@@ -1,0 +1,60 @@
+.cardrow{
+    justify-content: space-around;
+    flex-direction:row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.Mediabutton{
+    margin-top: 50px;
+    display:flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.pager {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(234, 238, 243);
+    margin-top: 0%;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .numoflikes {
+    text-align: end;
+  }
+  
+  @media only screen and (min-width: 200px) {
+    .button_width {
+      width: 100%;
+      margin: auto;
+    }
+    .end {
+      width: 100%;
+      margin-left: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+  
+  @media only screen and (min-width: 768px) {
+    .button_width {
+      width: 20%;
+      margin: auto;
+    }
+    .end {
+      width: 20%;
+      margin-left: 80%;
+    }
+  }
+  
+  .mid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

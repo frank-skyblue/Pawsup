@@ -1,0 +1,17 @@
+.subform{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    justify-content: center;
+}
+
+.form{
+    display:flex;
+    flex-direction:column;
+}
+
+.detail{
+    display:flex;
+    justify-content: center;
+    align-self: center;
+}

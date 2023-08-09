@@ -1,0 +1,41 @@
+.filter {
+  border-radius: 20px;
+  background-color: whitesmoke;
+}
+
+.filter_options {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.sort {
+  border-radius: 20px;
+  background-color: whitesmoke;
+  padding: 1rem 1rem 0 1rem;
+}
+
+.ml-3 {
+  margin-left: 25px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.button {
+  display: flex;
+}
+
+.selected {
+  background-color: skyblue;
+  border-radius: 25px;
+  padding: 0.5rem;
+}
+
+.unselected {
+  border-radius: 25px;
+  padding: 0.5rem;
+}

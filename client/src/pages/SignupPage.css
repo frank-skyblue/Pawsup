@@ -1,0 +1,25 @@
+.pageform {
+  margin-right: 25%;
+  margin-left: 25%;
+}
+
+.mid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bigger {
+  width: 200px;
+}
+
+@media only screen and (max-width: 600px) {
+  .pageform {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+  .bigger {
+    flex: 1;
+  }
+}

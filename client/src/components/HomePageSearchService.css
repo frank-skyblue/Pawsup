@@ -1,0 +1,14 @@
+.react-datepicker__input-container, input{
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    appearance: none;
+    border-radius: .25rem;
+    border: 1px solid #ced4da;
+}
+.findButton{
+    margin-top: 2rem;
+    width: 100%;
+}

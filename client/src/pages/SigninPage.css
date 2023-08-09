@@ -1,0 +1,10 @@
+.page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.bg-white {
+  background-color: #fff;
+}

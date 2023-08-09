@@ -1,0 +1,49 @@
+.price{
+    color: orange;
+}
+.serviceImg{
+    object-fit: fill;
+    max-height: 30rem;
+}
+
+.serviceFacility p{
+    font-size: large;
+}
+.serviceProviderName{
+    font-size: large;
+    padding-left: 2rem;
+}
+.serviceProviderIconAndName{
+   align-items: center;
+   padding-bottom: 1rem;
+}
+.serviceProviderEmail{
+    padding-left: 1rem;
+}
+.serviceProviderPhone{
+    padding-left: 1rem;
+}
+.serviceProviderEmailFont{
+    font-size: large;
+    padding-left: 2rem;
+}
+.serviceProviderPhoneFont{
+    font-size: large;
+    padding-left: 2rem;
+}
+.serviceProviderInformation{
+    padding-top: 2rem;
+}
+.serviceLocationFont{
+    font-size: large;
+}
+.serviceLocation{
+    padding-top: 2rem;
+}
+.serviceComment{
+    justify-content: center;
+}
+.detail h1{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
