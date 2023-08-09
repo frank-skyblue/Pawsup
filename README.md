@@ -1,8 +1,9 @@
 # The Pawsup App
 
-This is a full-stack web application developed with 6 other people.
+## My contributions
+This is a full-stack web application I co-developed with 6 other people.
 
-In order to test this application, please run `npm run dev` in both the [client](client/) and [server](server/) folders.
+My primary responsibility is on the front-end of the application, where I used **React** to build the [product page](client/src/components/FeaturedProducts.js) and the [filter](client/src/components/ServiceFilter.js).
 
 We utilized the [AGILE](https://agilemanifesto.org/) methodology in our developmental process, to see this process, please visit the [documentation folder](doc/).
 
